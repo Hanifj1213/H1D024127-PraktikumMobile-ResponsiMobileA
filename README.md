@@ -31,15 +31,6 @@ Tangkapan layar Home dan Detail berikut diambil dari aplikasi yang berjalan di e
   <img src="docs/media/detail.png" alt="Halaman Detail LayarKu" width="300" />
 </p>
 
-Berkas media disimpan di `docs/media/`:
-
-| Berkas | Isi | Status |
-| --- | --- | --- |
-| `home.png` | Halaman Home dengan daftar serial dari API | Sudah tersedia |
-| `detail.png` | Halaman Detail dengan poster, judul, informasi serial, dan awal sinopsis | Sudah tersedia |
-| `demo.gif` | Alur pencarian, membuka hasil, menggulir detail, dan kembali | Belum tersedia |
-
-GIF demonstrasi masih perlu direkam dari aplikasi yang benar-benar berjalan, lalu ditambahkan ke bagian ini. Lihat [daftar periksa pengumpulan](docs/SUBMISSION.md) untuk berkas lain yang perlu disiapkan.
 
 ## Build dan Menjalankan Aplikasi
 
